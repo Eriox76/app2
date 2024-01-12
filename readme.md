@@ -9,7 +9,7 @@ A brief description of what this project does and who it's for
 ```echo "hello world"```
 ## Screenshots
 
-![Screenshot](./assets/data/screenshot_desktop.png)
+![Screenshot](./assets/data/desktop.png)
 ![Screenshot](./assets/data/screenshot_desktopmobile.png)
 
 ## Deployment
